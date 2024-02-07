@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanSudyk
 - 👀 I’m interested in creating new innovative solution which can change world
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 
 <!---
 - 💞️ I’m looking to collaborate on ...
